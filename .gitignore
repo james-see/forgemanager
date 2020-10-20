@@ -1,3 +1,6 @@
 node_modules
 node_modules
 src-tauri/target
+forge-manager/node_modules
+forge-manager/src-tauri/target
+
