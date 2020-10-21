@@ -46,7 +46,7 @@
 
 ## WHAT
 
-The manager GUI for FORGE to show statuses and other things.
+The manager GUI for FORGE (https://forgedata.live) to show statuses and other things.
 
 ## HOW
 
